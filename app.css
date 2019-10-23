@@ -11110,3 +11110,14 @@ header .logo {
   width: 150px;
 }
 
+header .top-menu {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+header .top-menu li a {
+  display: block;
+  padding: 0.25rem, 1rem;
+}
+
