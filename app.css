@@ -11116,8 +11116,15 @@ header .top-menu {
   padding: 0;
 }
 
+header .top-menu li {
+  list-style-type: none;
+}
+
 header .top-menu li a {
   display: block;
-  padding: 0.25rem, 1rem;
+  padding: 0.25rem 1rem;
+  color: #343a40;
+  font-size: 1.1rem;
+  font-weight: bold;
 }
 
